@@ -28,19 +28,21 @@ Puis la construction du tableau de bord
 
 
 
-# Compétences Mobilisées :
-Analyse de données : Identification et extraction des données pertinentes pour la création du tableau de bord à partir de fichiers bruts.
-Nettoyage et transformation des données : Utilisation de Power Query pour effectuer des étapes d'extraction, transformation et chargement (ETL) des données.
-Modélisation des données : Création de modèles de données relationnels pour structurer efficacement l’information, facilitant l’analyse.
-Visualisation de données : Création de visualisations interactives et dynamiques permettant de suivre l’avancement des projets, de détecter des retards et d’évaluer la performance.
-Gestion de projet agile : Application de la méthode agile pour la gestion du projet, impliquant des réunions régulières avec les parties prenantes et l’adaptation continue du tableau de bord en fonction des retours.
-Communication des résultats : Présentation des résultats sous forme de tableaux de bord clairs et efficaces qui permettent une prise de décision rapide.
-Data storytelling : Présentation des données de manière narrative pour faciliter la compréhension et l'interprétation des résultats par les utilisateurs.
+## Compétences Mobilisées
 
-# Outils Utilisés :
-Power BI : Outil principal de visualisation des données et de création du tableau de bord.
-Power Query : Utilisé pour le nettoyage, la transformation et l’automatisation du processus de traitement des données avant leur analyse.
-Excel : Utilisé pour les premières étapes de nettoyage et d’analyse rapide des données.
-DAX (Data Analysis Expressions) : Langage utilisé dans Power BI pour créer des mesures et des calculs complexes dans le modèle de données.
-SQL : Utilisé pour extraire des données à partir des bases de données relationnelles du logiciel de gestion de projets.
-GitHub : Plateforme utilisée pour le suivi des versions du projet et la collaboration avec l’équipe.
+1. **Analyse de données** : Identification et extraction des données pertinentes pour la création du tableau de bord à partir de fichiers bruts.
+2. **Nettoyage et transformation des données** : Utilisation de Power Query pour effectuer des étapes d'extraction, transformation et chargement (ETL) des données.
+3. **Modélisation des données** : Création de modèles de données relationnels pour structurer efficacement l’information, facilitant l’analyse.
+4. **Visualisation de données** : Création de visualisations interactives et dynamiques permettant de suivre l’avancement des projets, de détecter des retards et d’évaluer la performance.
+5. **Gestion de projet agile** : Application de la méthode agile pour la gestion du projet, impliquant des réunions régulières avec les parties prenantes et l’adaptation continue du tableau de bord en fonction des retours.
+6. **Communication des résultats** : Présentation des résultats sous forme de tableaux de bord clairs et efficaces qui permettent une prise de décision rapide.
+7. **Data storytelling** : Présentation des données de manière narrative pour faciliter la compréhension et l'interprétation des résultats par les utilisateurs.
+
+## Outils Utilisés
+
+1. **Power BI** : Outil principal de visualisation des données et de création du tableau de bord.
+2. **Power Query** : Utilisé pour le nettoyage, la transformation et l’automatisation du processus de traitement des données avant leur analyse.
+3. **Excel** : Utilisé pour les premières étapes de nettoyage et d’analyse rapide des données.
+4. **DAX (Data Analysis Expressions)** : Langage utilisé dans Power BI pour créer des mesures et des calculs complexes dans le modèle de données.
+5. **SQL** : Utilisé pour extraire des données à partir des bases de données relationnelles du logiciel de gestion de projets.
+6. **GitHub** : Plateforme utilisée pour le suivi des versions du projet et la collaboration avec l’équipe.
