@@ -1,4 +1,4 @@
-# Création d'un tableau de bord de reporting pour une société internationale
+# Création d'un tableau de bord pour le suivi de projet et des performances
 
 Dans ce projet je suis un consultant Data Analyst chez ESN Data, une entreprise de services numériques (ESN).
 
