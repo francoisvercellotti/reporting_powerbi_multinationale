@@ -24,7 +24,8 @@ Après avoir procédé au nettoyage des données et à l'automatisation de cette
 
 Puis la construction du tableau de bord
 
-![image](https://github.com/user-attachments/assets/c69e04f8-166d-4f04-8253-a6121bfd7d60)
+![image](https://github.com/user-attachments/assets/81369059-b40c-42fc-a0dd-23c2372a9989)
+
 
 
 # Compétences Mobilisées :
