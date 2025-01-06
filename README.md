@@ -33,7 +33,7 @@ Puis la construction du tableau de bord (extrait):
 
 
 
-## Compétences Mobilisées
+## Compétences Acquises
 
 1. **Analyse de données** : Identification et extraction des données pertinentes pour la création du tableau de bord à partir de fichiers bruts.
 2. **Nettoyage et transformation des données** : Utilisation de Power Query pour effectuer des étapes d'extraction, transformation et chargement (ETL) des données.
