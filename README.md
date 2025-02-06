@@ -11,7 +11,9 @@ Je suis déployé chez le client Sanitoral pour réaliser une mission de visuali
 Sophie la cheffe de projet au sein du service Project Management Office de Sanitoral, me fait part lors de notre première rencontre du besoin pour son service de s'appuyer sur un outil de data visualisation pour :
 
 -suivre l'avancement des projets et les coûts ;
+
 -identifier les retards ;
+
 -contrôler les performances, afin que l’équipe puisse mener les actions adéquates.
 
 Sur la base de la note de cadrage du projet établie lors cette première réunion, je commance avant de me lancer dans la construction du tableau de bord, par  formaliser les user stories dans un Product Strategy Canvas.
